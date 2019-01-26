@@ -1,0 +1,12 @@
+html
+h1 {background-color:aqua;}
+
+h2 {background: linear-gradient(to bottom, #ccff66 0%, #ff66ff 100%);}
+
+h3 {border:2px solid DarkKhaki;}
+
+p {background: linear-gradient(to bottom, #66ff99 0%, #ff0066 100%);}
+
+p {border:2px solid tomato;}
+
+h1 {text-align:center}
